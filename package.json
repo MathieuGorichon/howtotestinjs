@@ -1,0 +1,24 @@
+{
+  "name": "howtotestinjs",
+  "version": "1.0.0",
+  "description": "npm install -g mocha\r \tnpm install",
+  "main": "app.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mockery": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuGorichon/howtotestinjs.git"
+  },
+  "author": "Mathieu Gorichon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathieuGorichon/howtotestinjs/issues"
+  },
+  "homepage": "https://github.com/MathieuGorichon/howtotestinjs#readme"
+}
